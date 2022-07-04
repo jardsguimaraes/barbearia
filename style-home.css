@@ -1,0 +1,75 @@
+.principal{
+    padding: 30px 0;
+    margin: 0 auto;
+}
+
+.titulo-centralizado{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+p{
+    padding: 30px 30px 10px 30px;
+    text-align: center
+}
+
+#missao{
+    padding: 5px 30px;
+    font-size: 20px
+}
+
+em strong{
+    color: #FF0000;
+}
+
+#conclusao{
+    padding: 15px 30px;
+}
+
+.beneficios{
+    font-style: #FFFFFF;
+}
+
+h3{
+    padding-bottom: 30px;
+}
+
+ul{
+    padding-bottom: 30px;
+    text-align: center
+}
+
+.itens{
+    font-size: 17px;
+    font-style: italic;
+    font-weight: bolder;    
+    display: inline;
+    padding: 0px 10px 0px 10px;
+}
+
+
+
+/*
+
+.itens{
+    font-style: italic;
+}
+
+.beneficios{
+    font-style: #FFFFFF;
+    padding: 20px;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.iamgembeneicios{
+    width: 50%;
+}
+
+*/
