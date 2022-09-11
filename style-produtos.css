@@ -44,3 +44,18 @@
     font-weight: bolder;
     margin-top: 10px;
 }
+
+@media screen and (max-width: 480px) {
+    .caixa, .produtos{
+        width: auto;
+    }
+
+    .produtos li{
+        width: 100%;
+        margin-top: 15px;
+    }
+
+    nav{
+        position: static;
+    }
+}

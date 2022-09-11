@@ -1,3 +1,8 @@
+main{
+    width: 940px;
+    margin: 0 auto;
+}
+
 .enviar{
     width: 40%;
     padding: 15px 0;
@@ -31,3 +36,25 @@ td, th{
     padding: 8px 15px;
 }
 
+@media screen and (max-width: 480px) {
+    .caixa{
+        width: auto;
+    }
+
+    main{
+        width: auto;
+    }
+
+    form, .enviar{
+        width: auto;
+        padding: 5%;
+    }
+
+    table{
+        margin: auto auto 15%;
+    }
+
+    nav{
+        position: static;
+    }
+}
